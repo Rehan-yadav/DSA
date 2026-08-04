@@ -9,20 +9,31 @@ class Solution {
             min=Math.min(min,nums[i]);
             max=Math.max(max,nums[i]);
         }
-        for(int i=min ; i<max ;i++){
-            notpresent=true;
-            for(int j=0 ; j<n ; j++){
-                if(nums[j]==i){
-                    notpresent=true;
-                    break;
-                }
-                else{
-                    notpresent=false;
-                    
-                }
-            }
-            if(notpresent==false) ans.add(i);
+        int[] arr=new int[max+1];
+        for(int i=0 ; i<n; i++){
+            arr[nums[i]]++;
         }
+        for(int i=min ; i<=max ; i++){
+            if(arr[i]==0) ans.add(i);
+        }
+        
+        
+        
+        
+        // for(int i=min ; i<max ;i++){
+        //     notpresent=true;
+        //     for(int j=0 ; j<n ; j++){
+        //         if(nums[j]==i){
+        //             notpresent=true;
+        //             break;
+        //         }
+        //         else{
+        //             notpresent=false;
+                    
+        //         }
+        //     }
+        //     if(notpresent==false) ans.add(i);
+        // }
         return ans;
     }
 }
