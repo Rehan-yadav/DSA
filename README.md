@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Rehan-yadav/DSA/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Rehan-yadav/DSA/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/Rehan-yadav/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -26,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rehan-yadav/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rehan-yadav/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0217-contains-duplicate](https://github.com/Rehan-yadav/DSA/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/Rehan-yadav/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Rehan-yadav/DSA/tree/master/0217-contains-duplicate) |
 | [3731-find-missing-elements](https://github.com/Rehan-yadav/DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
