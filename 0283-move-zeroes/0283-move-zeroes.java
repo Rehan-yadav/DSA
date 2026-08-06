@@ -7,12 +7,11 @@ class Solution {
                 j++;
             }
             else{
-                
                 int temp=nums[i];
                 nums[i]=nums[j];
                 nums[j]=temp;
                 i++;
-                j=i;
+                j++;
             }
         }
     }
