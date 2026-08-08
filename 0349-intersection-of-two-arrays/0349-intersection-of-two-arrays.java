@@ -6,12 +6,16 @@ class Solution {
             arr1.add(nums1[i]);
         }
         for(int i=0 ;i<nums2.length ; i++){
-            arr2.add(nums2[i]);
+            if(arr1.contains(nums2[i])){
+                arr2.add(nums2[i]);
+            }
         }
-        arr1.retainAll(arr2);
-        int[] ans=new int[arr1.size()];
+       
+        
+        
+        int[] ans=new int[arr2.size()];
         int ind=0;
-        for(int x : arr1){
+        for(int x : arr2){
             ans[ind]=x;
             ind++;
         }
