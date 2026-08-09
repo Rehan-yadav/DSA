@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rehan-yadav/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Rehan-yadav/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Rehan-yadav/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [3731-find-missing-elements](https://github.com/Rehan-yadav/DSA/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rehan-yadav/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rehan-yadav/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Rehan-yadav/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 <!---LeetCode Topics End-->
