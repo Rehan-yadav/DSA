@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Rehan-yadav/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Rehan-yadav/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Rehan-yadav/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Rehan-yadav/DSA/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Rehan-yadav/DSA/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rehan-yadav/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Rehan-yadav/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/Rehan-yadav/DSA/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Rehan-yadav/DSA/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Rehan-yadav/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
