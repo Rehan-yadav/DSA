@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rehan-yadav/DSA/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Rehan-yadav/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Rehan-yadav/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Rehan-yadav/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Rehan-yadav/DSA/tree/master/0217-contains-duplicate) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Rehan-yadav/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rehan-yadav/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Rehan-yadav/DSA/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Rehan-yadav/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Rehan-yadav/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rehan-yadav/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rehan-yadav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -189,5 +191,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Rehan-yadav/DSA/tree/master/0073-set-matrix-zeroes) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rehan-yadav/DSA/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
