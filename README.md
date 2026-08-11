@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rehan-yadav/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Rehan-yadav/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Rehan-yadav/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rehan-yadav/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Rehan-yadav/DSA/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Rehan-yadav/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Rehan-yadav/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rehan-yadav/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Rehan-yadav/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Rehan-yadav/DSA/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Rehan-yadav/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Rehan-yadav/DSA/tree/master/0075-sort-colors) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rehan-yadav/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Rehan-yadav/DSA/tree/master/0073-set-matrix-zeroes) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rehan-yadav/DSA/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
