@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rehan-yadav/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rehan-yadav/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rehan-yadav/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rehan-yadav/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rehan-yadav/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1995-count-special-quadruplets](https://github.com/Rehan-yadav/DSA/tree/master/1995-count-special-quadruplets) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Rehan-yadav/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Rehan-yadav/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rehan-yadav/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rehan-yadav/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rehan-yadav/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rehan-yadav/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rehan-yadav/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rehan-yadav/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rehan-yadav/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Rehan-yadav/DSA/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Rehan-yadav/DSA/tree/master/0495-teemo-attacking) |
 | [0724-find-pivot-index](https://github.com/Rehan-yadav/DSA/tree/master/0724-find-pivot-index) |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rehan-yadav/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rehan-yadav/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rehan-yadav/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rehan-yadav/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/Rehan-yadav/DSA/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rehan-yadav/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rehan-yadav/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Rehan-yadav/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Rehan-yadav/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rehan-yadav/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
