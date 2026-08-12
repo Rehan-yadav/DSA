@@ -21,7 +21,7 @@ class Solution {
             int min=nums[ind+1];
             int mini=ind+1;
             for(int i=ind+1 ; i<n ; i++){
-                if(nums[i]<min && nums[i]>nums[ind]){
+                if(nums[i]<=min && nums[i]>nums[ind]){
                     min=nums[i];
                     mini=i;
 
@@ -30,7 +30,13 @@ class Solution {
             int temp=nums[mini];
             nums[mini]=nums[ind];
             nums[ind]=temp;
-            Arrays.sort(nums,ind+1,n);
+            int rev=0;
+            for(int i=ind+1 ; i<=(n-1+(ind+1))/2 ; i++){
+                int temp1=nums[i];
+                nums[i]=nums[n-1-rev];
+                nums[n-1-rev]=temp1;
+                rev++;
+            }
         }
              
         
