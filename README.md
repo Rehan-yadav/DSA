@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Rehan-yadav/DSA/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Rehan-yadav/DSA/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/Rehan-yadav/DSA/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rehan-yadav/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/Rehan-yadav/DSA/tree/master/0867-transpose-matrix) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rehan-yadav/DSA/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/Rehan-yadav/DSA/tree/master/1051-height-checker) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rehan-yadav/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rehan-yadav/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Rehan-yadav/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rehan-yadav/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
 |  |
