@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rehan-yadav/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rehan-yadav/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rehan-yadav/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Rehan-yadav/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2465-number-of-distinct-averages](https://github.com/Rehan-yadav/DSA/tree/master/2465-number-of-distinct-averages) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rehan-yadav/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Rehan-yadav/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Rehan-yadav/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Rehan-yadav/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2465-number-of-distinct-averages](https://github.com/Rehan-yadav/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Rehan-yadav/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Rehan-yadav/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Rehan-yadav/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Rehan-yadav/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Rehan-yadav/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2465-number-of-distinct-averages](https://github.com/Rehan-yadav/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Rehan-yadav/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rehan-yadav/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rehan-yadav/DSA/tree/master/0455-assign-cookies) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Rehan-yadav/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rehan-yadav/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Rehan-yadav/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
