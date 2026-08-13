@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Rehan-yadav/DSA/tree/master/1925-count-square-sum-triples) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Rehan-yadav/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2427-number-of-common-factors](https://github.com/Rehan-yadav/DSA/tree/master/2427-number-of-common-factors) |
+| [2651-calculate-delayed-arrival-time](https://github.com/Rehan-yadav/DSA/tree/master/2651-calculate-delayed-arrival-time) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rehan-yadav/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/Rehan-yadav/DSA/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rehan-yadav/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
