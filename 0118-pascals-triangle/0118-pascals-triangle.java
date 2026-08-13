@@ -1,12 +1,5 @@
 class Solution {
 
-    static int fact(int n){
-        int fac=1;
-        for(int i=1; i<=n; i++){
-            fac*=i;
-        }
-        return fac;
-    }
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> ans=new ArrayList<>();
         
