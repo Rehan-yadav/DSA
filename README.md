@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rehan-yadav/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rehan-yadav/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rehan-yadav/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Rehan-yadav/DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rehan-yadav/DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Rehan-yadav/DSA/tree/master/0412-fizz-buzz) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Rehan-yadav/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rehan-yadav/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Enumeration
 |  |
 | ------- |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Rehan-yadav/DSA/tree/master/2427-number-of-common-factors) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rehan-yadav/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
