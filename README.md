@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rehan-yadav/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1995-count-special-quadruplets](https://github.com/Rehan-yadav/DSA/tree/master/1995-count-special-quadruplets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Rehan-yadav/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2418-sort-the-people](https://github.com/Rehan-yadav/DSA/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/Rehan-yadav/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Rehan-yadav/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Rehan-yadav/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Rehan-yadav/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rehan-yadav/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2418-sort-the-people](https://github.com/Rehan-yadav/DSA/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/Rehan-yadav/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Rehan-yadav/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Rehan-yadav/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Rehan-yadav/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rehan-yadav/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2418-sort-the-people](https://github.com/Rehan-yadav/DSA/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/Rehan-yadav/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Rehan-yadav/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rehan-yadav/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rehan-yadav/DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Rehan-yadav/DSA/tree/master/0412-fizz-buzz) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Rehan-yadav/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2418-sort-the-people](https://github.com/Rehan-yadav/DSA/tree/master/2418-sort-the-people) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rehan-yadav/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3838-weighted-word-mapping](https://github.com/Rehan-yadav/DSA/tree/master/3838-weighted-word-mapping) |
 ## Enumeration
