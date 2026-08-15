@@ -5,7 +5,7 @@ class Solution {
         for(int i=0 ; i<26 ; i++){
             alpha[i]=(char)(122-i);
         }
-        String ans="";
+        StringBuilder ans=new StringBuilder();
         for(int i=0 ; i<n ; i++){
             String s=words[i];
             int weig=0;
@@ -13,9 +13,9 @@ class Solution {
                 weig+=weights[s.charAt(j)-'a'];
             }
             weig=weig%26;
-            ans+=alpha[weig];
+            ans.append(alpha[weig]);
         }
         
-        return ans;
+        return ans.toString();
     }
 }
