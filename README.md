@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Rehan-yadav/DSA/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rehan-yadav/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rehan-yadav/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rehan-yadav/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Rehan-yadav/DSA/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rehan-yadav/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/Rehan-yadav/DSA/tree/master/3838-weighted-word-mapping) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Rehan-yadav/DSA/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Rehan-yadav/DSA/tree/master/0268-missing-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rehan-yadav/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rehan-yadav/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Rehan-yadav/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Rehan-yadav/DSA/tree/master/2169-count-operations-to-obtain-zero) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rehan-yadav/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rehan-yadav/DSA/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3838-weighted-word-mapping](https://github.com/Rehan-yadav/DSA/tree/master/3838-weighted-word-mapping) |
 ## Greedy
