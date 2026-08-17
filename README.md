@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rehan-yadav/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Rehan-yadav/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Rehan-yadav/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Rehan-yadav/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rehan-yadav/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Rehan-yadav/DSA/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/Rehan-yadav/DSA/tree/master/2465-number-of-distinct-averages) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Rehan-yadav/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Rehan-yadav/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Rehan-yadav/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Rehan-yadav/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rehan-yadav/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Rehan-yadav/DSA/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/Rehan-yadav/DSA/tree/master/2465-number-of-distinct-averages) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Rehan-yadav/DSA/tree/master/0875-koko-eating-bananas) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rehan-yadav/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rehan-yadav/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Rehan-yadav/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rehan-yadav/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Rehan-yadav/DSA/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Rehan-yadav/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rehan-yadav/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Rehan-yadav/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Rehan-yadav/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 ## Divide and Conquer
 |  |
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Rehan-yadav/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rehan-yadav/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rehan-yadav/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/Rehan-yadav/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rehan-yadav/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
