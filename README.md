@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Rehan-yadav/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Rehan-yadav/DSA/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
+| [2951-find-the-peaks](https://github.com/Rehan-yadav/DSA/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rehan-yadav/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rehan-yadav/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rehan-yadav/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Rehan-yadav/DSA/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/Rehan-yadav/DSA/tree/master/1995-count-special-quadruplets) |
 | [2427-number-of-common-factors](https://github.com/Rehan-yadav/DSA/tree/master/2427-number-of-common-factors) |
+| [2951-find-the-peaks](https://github.com/Rehan-yadav/DSA/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rehan-yadav/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Bit Manipulation
 |  |
