@@ -14,14 +14,14 @@ class Solution {
                 }
             }
             else{
-                if(nums[mid]<=target && nums[high]>=target){
+                if(nums[high]>=target && nums[mid]<=target){
                     low=mid+1;
                 }
                 else{
                     high=mid-1;
                 }
-            }
 
+            }
         }
         return -1;
     }
