@@ -4,11 +4,20 @@ class Solution {
         int n=mat[0].length;
         int max=0;
         int ind=0;
+        
         for(int i=0 ; i<m ; i++){
+            Arrays.sort(mat[i]);
+            int low=0,high=n-1;
             int count=0;
-            for(int j=0 ; j<n ; j++){
-                if(mat[i][j]==1){
-                    count++;
+            while(low<=high){
+                int mid=low+(high-low)/2;
+                if(mat[i][mid]==0){
+                    low=mid+1;
+                }
+                else{
+                    
+                    count=n-mid;
+                    high=mid-1;
                 }
             }
             if(count>max){
