@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rehan-yadav/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rehan-yadav/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Rehan-yadav/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rehan-yadav/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Rehan-yadav/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Rehan-yadav/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Rehan-yadav/DSA/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rehan-yadav/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Rehan-yadav/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rehan-yadav/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rehan-yadav/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Rehan-yadav/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Rehan-yadav/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rehan-yadav/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Rehan-yadav/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rehan-yadav/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rehan-yadav/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Rehan-yadav/DSA/tree/master/3477-fruits-into-baskets-ii) |
