@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Rehan-yadav/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1995-count-special-quadruplets](https://github.com/Rehan-yadav/DSA/tree/master/1995-count-special-quadruplets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Rehan-yadav/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Rehan-yadav/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2418-sort-the-people](https://github.com/Rehan-yadav/DSA/tree/master/2418-sort-the-people) |
 | [2465-number-of-distinct-averages](https://github.com/Rehan-yadav/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Rehan-yadav/DSA/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rehan-yadav/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Rehan-yadav/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Rehan-yadav/DSA/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Rehan-yadav/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rehan-yadav/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Rehan-yadav/DSA/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/Rehan-yadav/DSA/tree/master/2418-sort-the-people) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rehan-yadav/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rehan-yadav/DSA/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Rehan-yadav/DSA/tree/master/0268-missing-number) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Rehan-yadav/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rehan-yadav/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Dynamic Programming
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Rehan-yadav/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rehan-yadav/DSA/tree/master/0229-majority-element-ii) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Rehan-yadav/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rehan-yadav/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
