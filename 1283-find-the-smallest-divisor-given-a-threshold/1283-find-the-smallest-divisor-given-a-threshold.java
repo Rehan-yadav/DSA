@@ -13,7 +13,7 @@ class Solution {
         for(int i=0 ;i<n ; i++){
             max=Math.max(max,nums[i]);
         }
-        int low=0,high=max;
+        int low=1,high=max;
         int ans=0;
         while(low<=high){
             int mid=low+(high-low)/2;
