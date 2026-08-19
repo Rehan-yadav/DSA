@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/Rehan-yadav/DSA/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/Rehan-yadav/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rehan-yadav/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Rehan-yadav/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rehan-yadav/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Rehan-yadav/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rehan-yadav/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rehan-yadav/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Rehan-yadav/DSA/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Rehan-yadav/DSA/tree/master/2169-count-operations-to-obtain-zero) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Rehan-yadav/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Rehan-yadav/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rehan-yadav/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rehan-yadav/DSA/tree/master/3726-remove-zeros-in-decimal-representation) |
