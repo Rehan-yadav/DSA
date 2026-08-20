@@ -1,10 +1,11 @@
 class Solution {
     public int[] resultArray(int[] nums) {
+        int n=nums.length;
         ArrayList<Integer> arr1=new ArrayList<>();
         ArrayList<Integer> arr2=new ArrayList<>();
         arr1.add(nums[0]);
         arr2.add(nums[1]);
-        for(int i=2 ; i<nums.length ; i++){
+        for(int i=2 ; i<n ; i++){
             if(arr1.get(arr1.size()-1)<arr2.get(arr2.size()-1)){
                 arr2.add(nums[i]);
             }
@@ -12,12 +13,12 @@ class Solution {
                 arr1.add(nums[i]);
             }
         }
-        int[] ans=new int[arr1.size()+arr2.size()];
-        for(int i=0 ; i<arr1.size() ; i++){
+        int[] ans=new int[n];
+        for(int i=0 ; i<arr1.size(); i++){
             ans[i]=arr1.get(i);
         }
         int ind=arr1.size();
-        for(int i=0 ; i<arr2.size() ; i++){
+        for(int i=0 ;  i<arr2.size() ; i++){
             ans[ind]=arr2.get(i);
             ind++;
         }
