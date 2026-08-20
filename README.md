@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rehan-yadav/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/Rehan-yadav/DSA/tree/master/3838-weighted-word-mapping) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Rehan-yadav/DSA/tree/master/3917-count-indices-with-opposite-parity) |
+| [4024-nearest-available-drone](https://github.com/Rehan-yadav/DSA/tree/master/4024-nearest-available-drone) |
 ## Sorting
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/Rehan-yadav/DSA/tree/master/2427-number-of-common-factors) |
 | [2951-find-the-peaks](https://github.com/Rehan-yadav/DSA/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rehan-yadav/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [4024-nearest-available-drone](https://github.com/Rehan-yadav/DSA/tree/master/4024-nearest-available-drone) |
 ## Bit Manipulation
 |  |
 | ------- |
