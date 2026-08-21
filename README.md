@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Rehan-yadav/DSA/tree/master/2540-minimum-common-value) |
 | [2643-row-with-maximum-ones](https://github.com/Rehan-yadav/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rehan-yadav/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Rehan-yadav/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Rehan-yadav/DSA/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2951-find-the-peaks](https://github.com/Rehan-yadav/DSA/tree/master/2951-find-the-peaks) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Rehan-yadav/DSA/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/Rehan-yadav/DSA/tree/master/1995-count-special-quadruplets) |
 | [2427-number-of-common-factors](https://github.com/Rehan-yadav/DSA/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rehan-yadav/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Rehan-yadav/DSA/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rehan-yadav/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [4024-nearest-available-drone](https://github.com/Rehan-yadav/DSA/tree/master/4024-nearest-available-drone) |
