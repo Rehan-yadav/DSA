@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rehan-yadav/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rehan-yadav/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Rehan-yadav/DSA/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Rehan-yadav/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Rehan-yadav/DSA/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Rehan-yadav/DSA/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Rehan-yadav/DSA/tree/master/0507-perfect-number) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rehan-yadav/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rehan-yadav/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rehan-yadav/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Rehan-yadav/DSA/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Rehan-yadav/DSA/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Rehan-yadav/DSA/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rehan-yadav/DSA/tree/master/0540-single-element-in-a-sorted-array) |
