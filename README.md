@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Rehan-yadav/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Rehan-yadav/DSA/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1901-find-a-peak-element-ii](https://github.com/Rehan-yadav/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Rehan-yadav/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rehan-yadav/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Rehan-yadav/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/Rehan-yadav/DSA/tree/master/2540-minimum-common-value) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rehan-yadav/DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Rehan-yadav/DSA/tree/master/0412-fizz-buzz) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Rehan-yadav/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Rehan-yadav/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2418-sort-the-people](https://github.com/Rehan-yadav/DSA/tree/master/2418-sort-the-people) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rehan-yadav/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3838-weighted-word-mapping](https://github.com/Rehan-yadav/DSA/tree/master/3838-weighted-word-mapping) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Rehan-yadav/DSA/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Rehan-yadav/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rehan-yadav/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Rehan-yadav/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rehan-yadav/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Rehan-yadav/DSA/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 ## Divide and Conquer
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Rehan-yadav/DSA/tree/master/0219-contains-duplicate-ii) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Rehan-yadav/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rehan-yadav/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Newton's Method
 |  |
