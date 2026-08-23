@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Rehan-yadav/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Rehan-yadav/DSA/tree/master/1837-sum-of-digits-in-base-k) |
 | [1925-count-square-sum-triples](https://github.com/Rehan-yadav/DSA/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/Rehan-yadav/DSA/tree/master/1927-sum-game) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Rehan-yadav/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2427-number-of-common-factors](https://github.com/Rehan-yadav/DSA/tree/master/2427-number-of-common-factors) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Rehan-yadav/DSA/tree/master/2651-calculate-delayed-arrival-time) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rehan-yadav/DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/Rehan-yadav/DSA/tree/master/0412-fizz-buzz) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Rehan-yadav/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1927-sum-game](https://github.com/Rehan-yadav/DSA/tree/master/1927-sum-game) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rehan-yadav/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2418-sort-the-people](https://github.com/Rehan-yadav/DSA/tree/master/2418-sort-the-people) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rehan-yadav/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rehan-yadav/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Rehan-yadav/DSA/tree/master/0561-array-partition) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Rehan-yadav/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1927-sum-game](https://github.com/Rehan-yadav/DSA/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rehan-yadav/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rehan-yadav/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Rehan-yadav/DSA/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -457,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Rehan-yadav/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Rehan-yadav/DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
