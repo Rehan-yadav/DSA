@@ -7,11 +7,7 @@ class Solution {
             num/=10;
         }
         if(dig<=3) return 0;
-        int ans=0;
-        for(int i=1000 ; i<=n ; i++){
-            ans++;
-
-        }
+        int ans=n-999;
         return ans;
     }
 }
