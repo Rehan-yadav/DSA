@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/Rehan-yadav/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/Rehan-yadav/DSA/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rehan-yadav/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rehan-yadav/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rehan-yadav/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rehan-yadav/DSA/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rehan-yadav/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rehan-yadav/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rehan-yadav/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Rehan-yadav/DSA/tree/master/3477-fruits-into-baskets-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rehan-yadav/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rehan-yadav/DSA/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rehan-yadav/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rehan-yadav/DSA/tree/master/3731-find-missing-elements) |
