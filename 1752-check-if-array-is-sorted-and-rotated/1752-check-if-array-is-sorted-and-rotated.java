@@ -1,22 +1,34 @@
 class Solution {
     public boolean check(int[] arr) {
        int n=arr.length;
-       for(int i=0 ; i<n ; i++){
-            int last=arr[n-1];
-            for(int j=n-1 ; j>0 ; j--){
-                arr[j]=arr[j-1];
-            }
-            arr[0]=last;
-            boolean issorted=true;
-        for(int k=0 ; k<n-1 ; k++){
-            if(arr[k]<=arr[k+1]) continue;
-            else{
-                issorted=false;
-                break;
-            }
+       int st=0;
+       for(int i=0 ; i<n-1 ; i++){
+        if(arr[i]<=arr[i+1]){
+            continue;
         }
-        if(issorted==true) return true;
+        else{
+            st=i+1;
+            break;
+        }
        }
-       return false;
+       int ans[]=new int[n];
+       int k=0;
+       for(int i=st ; i<n ; i++){
+        ans[k]=arr[i];
+        k++;
+       }
+       for(int i=0 ; i<st ; i++){
+        ans[k]=arr[i];
+        k++;
+       }
+       for(int i=0 ; i<n-1 ; i++){
+        if(ans[i]<=ans[i+1]){
+            continue;
+        }
+        else{
+            return false;
+        }
+       }
+       return true;
     }
 }
