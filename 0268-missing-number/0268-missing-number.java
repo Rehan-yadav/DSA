@@ -1,11 +1,13 @@
 class Solution {
     public int missingNumber(int[] nums) {
         int n=nums.length;
-        int reqsum=n*(n+1)/2;
-        int calsum=0;
+        int[] freq=new int[n+1];
         for(int i=0 ; i<n ; i++){
-            calsum+=nums[i];
+            freq[nums[i]]++;
         }
-        return reqsum-calsum;
+        for(int i=0 ; i<freq.length ; i++){
+            if(freq[i]==0) return i;
+        }
+        return 0;
     }
 }
