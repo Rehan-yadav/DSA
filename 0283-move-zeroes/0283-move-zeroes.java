@@ -7,9 +7,9 @@ class Solution {
                 j++;
             }
             else{
-                int temp=arr[i];
-                arr[i]=arr[j];
-                arr[j]=temp;
+                int temp=arr[j];
+                arr[j]=arr[i];
+                arr[i]=temp;
                 i++;
                 j++;
             }
