@@ -16,6 +16,7 @@ class Solution {
                     ans.add(Arrays.asList(arr));
                     }
                     while(j<k && nums[j+1]==nums[j]) j++;
+                    while(k>0 && nums[k-1]==nums[k]) k--;
                     j++;
                     k--;
                 }
