@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Rehan-yadav/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Rehan-yadav/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Rehan-yadav/DSA/tree/master/1837-sum-of-digits-in-base-k) |
+| [1903-largest-odd-number-in-string](https://github.com/Rehan-yadav/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/Rehan-yadav/DSA/tree/master/1925-count-square-sum-triples) |
 | [1927-sum-game](https://github.com/Rehan-yadav/DSA/tree/master/1927-sum-game) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Rehan-yadav/DSA/tree/master/2169-count-operations-to-obtain-zero) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Rehan-yadav/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Rehan-yadav/DSA/tree/master/0412-fizz-buzz) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Rehan-yadav/DSA/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1903-largest-odd-number-in-string](https://github.com/Rehan-yadav/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Rehan-yadav/DSA/tree/master/1927-sum-game) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Rehan-yadav/DSA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2418-sort-the-people](https://github.com/Rehan-yadav/DSA/tree/master/2418-sort-the-people) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Rehan-yadav/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Rehan-yadav/DSA/tree/master/0561-array-partition) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Rehan-yadav/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1903-largest-odd-number-in-string](https://github.com/Rehan-yadav/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Rehan-yadav/DSA/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Rehan-yadav/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rehan-yadav/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
