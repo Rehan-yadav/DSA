@@ -1,23 +1,23 @@
 class Solution {
-    static boolean isdivisor(int[] arr,int mid,int threshold){
+    static boolean check(int[] nums,int mid,int threshold){
         int sum=0;
-        for(int i=0 ; i<arr.length; i++){
-            sum+=Math.ceil((float)arr[i]/mid);
+        for(int i=0 ; i<nums.length ; i++){
+            sum+=Math.ceil((double)nums[i]/mid);
         }
         if(sum<=threshold) return true;
         else return false;
     }
     public int smallestDivisor(int[] nums, int threshold) {
-        int n=nums.length;
+        int low=1;
         int max=0;
-        for(int i=0 ;i<n ; i++){
+        for(int i=0 ; i<nums.length ; i++){
             max=Math.max(max,nums[i]);
         }
-        int low=1,high=max;
+        int high=max;
         int ans=0;
         while(low<=high){
             int mid=low+(high-low)/2;
-            if(isdivisor(nums,mid,threshold)==true){
+            if(check(nums,mid,threshold)){
                 ans=mid;
                 high=mid-1;
             }
