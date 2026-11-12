@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Rehan-yadav/DSA/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Rehan-yadav/DSA/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Rehan-yadav/DSA/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/Rehan-yadav/DSA/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Rehan-yadav/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rehan-yadav/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Rehan-yadav/DSA/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rehan-yadav/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rehan-yadav/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Rehan-yadav/DSA/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/Rehan-yadav/DSA/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Rehan-yadav/DSA/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Rehan-yadav/DSA/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -569,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rehan-yadav/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Rehan-yadav/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
