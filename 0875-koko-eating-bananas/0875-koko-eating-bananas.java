@@ -1,5 +1,5 @@
 class Solution {
-    static boolean check(int[] arr,long mid,int h){
+    static boolean check(int[] arr,int mid,int h){
         long cnt=0;
         for(int i=0 ; i<arr.length ; i++){
             cnt+=(arr[i]+mid-1)/mid;
@@ -9,15 +9,15 @@ class Solution {
     }
     public int minEatingSpeed(int[] piles, int h) {
         int n=piles.length;
-        long low=1;
+        int low=1;
         int max=0;
-        for(int i=0 ; i<n ; i++){
+        for(int i=0 ; i<n; i++){
             max=Math.max(max,piles[i]);
         }
-        long high=max;
-        long ans=0;
+        int high=max;
+        int ans=0;
         while(low<=high){
-            long mid=low+(high-low)/2;
+            int mid=low+(high-low)/2;
             if(check(piles,mid,h)){
                 ans=mid;
                 high=mid-1;
@@ -26,6 +26,6 @@ class Solution {
                 low=mid+1;
             }
         }
-        return (int)ans;
+        return ans;
     }
 }
