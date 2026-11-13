@@ -1,36 +1,37 @@
 class Solution {
-    static boolean isokay(int[] arr,int mid,int days){
-        int req=1;
-        int sum=0;
-        for(int i=0 ; i<arr.length ; i++){
-            if(sum+arr[i]<=mid){
-                sum+=arr[i];
+    static boolean check(int[] arr,int mid,int days){
+        int din=1;
+        int last=arr[0];
+        for(int i=1 ; i<arr.length ; i++){
+            if(last+arr[i]<=mid){
+                last+=arr[i];
             }
-            
             else{
-                req++;
-                sum=arr[i];
+                din++;
+                last=arr[i];
             }
-            
         }
-        if(req<=days) return true;
+        if(din<=days) return true;
         else return false;
     }
     public int shipWithinDays(int[] weights, int days) {
         int n=weights.length;
-        int sum=0;
-        int max=0;
-        for(int i=0 ; i<n ; i++){
-            max=Math.max(max,weights[i]);
-            sum+=weights[i];
-        }
-        int low=max,high=sum;
-        int ans=0;
+        
+            int max=0;
+            int sum=0;
+            for(int i=0 ; i<n; i++){
+                max=Math.max(max,weights[i]);
+                sum+=weights[i];
+            }
+            int low=max;
+            int high=sum;
+            int ans=0;
         while(low<=high){
             int mid=low+(high-low)/2;
-            if(isokay(weights,mid,days)==true){
+            if(check(weights,mid,days)){
                 ans=mid;
                 high=mid-1;
+
             }
             else{
                 low=mid+1;
