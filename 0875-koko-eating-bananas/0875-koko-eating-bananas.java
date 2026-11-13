@@ -1,31 +1,31 @@
 class Solution {
-    static int cal(int[] arr, int mid){
-        int hour=0;
+    static boolean check(int[] arr,long mid,int h){
+        long cnt=0;
         for(int i=0 ; i<arr.length ; i++){
-            hour+=Math.ceil((double)arr[i]/mid);
-
+            cnt+=(arr[i]+mid-1)/mid;
         }
-        return hour;
+        if(cnt<=h) return true;
+        else return false;
     }
     public int minEatingSpeed(int[] piles, int h) {
         int n=piles.length;
+        long low=1;
         int max=0;
         for(int i=0 ; i<n ; i++){
-            if(piles[i]>max){
-                max=piles[i];
-            }
+            max=Math.max(max,piles[i]);
         }
-        int low=1,high=max;
+        long high=max;
+        long ans=0;
         while(low<=high){
-            int mid=low+(high-low)/2;
-            int hour=cal(piles,mid);
-            if(hour<=h){
+            long mid=low+(high-low)/2;
+            if(check(piles,mid,h)){
+                ans=mid;
                 high=mid-1;
             }
             else{
                 low=mid+1;
             }
         }
-        return low;
+        return (int)ans;
     }
 }
