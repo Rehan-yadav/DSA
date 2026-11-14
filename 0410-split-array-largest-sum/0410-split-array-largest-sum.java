@@ -1,32 +1,34 @@
 class Solution {
-    static int numofsub(int[] arr,int mid){
-        int cal=0;
-        int num=1;
-        for(int i=0 ; i<arr.length ; i++){
-            if(cal+arr[i]<=mid){
-                cal+=arr[i];
+    static boolean check(int[] arr, int mid,int k){
+        int cnt=1;
+        int val=arr[0];
+        for(int i=1; i<arr.length; i++){
+            if(val+arr[i]<=mid){
+                val+=arr[i];
 
             }
             else{
-                num++;
-                cal=arr[i];
+                cnt++;
+                val=arr[i];
             }
         }
-        return num;
+        if(cnt<=k) return true;
+        else return false;
     }
     public int splitArray(int[] nums, int k) {
         int n=nums.length;
-        int max=Integer.MIN_VALUE;
+        int max=-1;
         int sum=0;
-        for(int i=0 ; i<n ; i++){
-            sum+=nums[i];
+        for(int i=0 ; i<n; i++){
             max=Math.max(max,nums[i]);
+            sum+=nums[i];
         }
-        int low=max,high=sum;
+        int low=max;
+        int high=sum;
         int ans=0;
         while(low<=high){
             int mid=low+(high-low)/2;
-            if(numofsub(nums,mid)<=k){
+            if(check(nums,mid,k)){
                 ans=mid;
                 high=mid-1;
             }
