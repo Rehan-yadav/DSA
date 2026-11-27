@@ -1,14 +1,16 @@
 class Solution {
     public List<Integer> getRow(int rowIndex) {
         List<Integer> ans=new ArrayList<>();
-        long put=1;
-        int n=rowIndex+1;
+        long res=1;
+        int n=rowIndex;
         ans.add(1);
-        for(int i=1 ; i<=rowIndex ; i++){
-            put=put*(n-i)/i;
-            ans.add((int)put);
+        long div=1;
+        for(int i=n ; i>0 ; i--){
+            res*=(i);
+            res/=div;
+            div++;
+            ans.add((int)res);
         }
         return ans;
-
     }
 }
